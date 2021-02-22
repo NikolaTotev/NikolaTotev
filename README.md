@@ -19,8 +19,8 @@ Right now my latest project is the [Teensy-based balancing robot](https://github
 ---
   
  ### 📫 How to reach me: 
- Email: nikola.r.totev@gmail.com
- Social Media: Nikola Totev (look for the blue circle)  [LinkedIn/Instagram/Facebook]
+ * Email: nikola.r.totev@gmail.com
+ * Social Media: Nikola Totev (look for the blue circle)  [LinkedIn/Instagram/Facebook]
 
 
 <!-- **NikolaTotev/NikolaTotev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
