@@ -13,8 +13,9 @@ Right now my latest project is the [Teensy-based balancing robot](https://github
 * Robotics (designing robots from the ground up)
 * 3D Printing
 * Altium
-* Solidworks (starting soon)
+* Solidworks
 * Microcontrollers
+* Vein Scanning
 
 ---
   
