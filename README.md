@@ -15,7 +15,7 @@ My latest project is the [Teensy-based balancing robot](https://github.com/Nikol
 * Altium
 * Solidworks
 * Microcontrollers
-* Vein Scanning
+* Image Processing
 
 ---
   
