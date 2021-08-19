@@ -13,10 +13,10 @@ My latest project is: [Parallel N-Body](https://github.com/NikolaTotev/Parallel-
 * Robotics (designing robots from the ground up)
 * 3D Printing
 * Altium
-* Solidworks
+* Fusion 360
 * Microcontrollers
 * Image Processing
-
+* Robotic Systems Development
 ---
   
  ### 📫 How to reach me: 
