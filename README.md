@@ -5,7 +5,7 @@ Welcome to my Github page, a home for all of my projects! You can see everything
 
 -----
 #### 🌟 Latest project  
-My latest project is the [Teensy-based balancing robot](https://github.com/NikolaTotev/Teensy-Balance-Bot-Mk_1/) 
+My latest project is my [Parallel N-Body](https://github.com/NikolaTotev/Parallel-N-Body) project
 
 ----
 
