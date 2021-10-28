@@ -5,7 +5,7 @@ Welcome to my Github page, a home for all of my projects! You can see everything
 
 -----
 #### 🌟 Latest project  
-My latest project is: [Parallel N-Body Simulator](https://github.com/NikolaTotev/Parallel-N-Body) 
+My latest project is: [Parallel N-Body Simulator](https://github.com/NikolaTotev/Sliding-Puzzle-Solver) 
 
 ----
 
