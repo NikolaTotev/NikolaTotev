@@ -5,7 +5,8 @@ Welcome to my Github page, a home for all of my projects! You can see everything
 
 -----
 #### 🌟 Latest project  
-My latest project is: [Parallel N-Body Simulator](https://github.com/NikolaTotev/Sliding-Puzzle-Solver) 
+My latest project is: [3x3 Sliding Puzzle Solver](https://github.com/NikolaTotev/Sliding-Puzzle-Solver) 
+You can find the GUI version [here](http://nikolatotev-001-site1.ctempurl.com/)!
 
 ----
 
