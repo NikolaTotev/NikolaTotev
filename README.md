@@ -5,8 +5,8 @@ Welcome to my Github page, a home for all of my projects! You can see everything
 
 -----
 #### 🌟 Latest project  
-My latest project is: [3x3 Sliding Puzzle Solver](https://github.com/NikolaTotev/Sliding-Puzzle-Solver) 
-You can find the GUI version [here](http://nikolatotev-001-site1.ctempurl.com/)!
+My latest project is: [N Queen Solver](https://github.com/NikolaTotev/N_Queen_Solver) 
+You can find the GUI version [here](http://nikolatotev-001-site1.ctempurl.com/nqueensolver)!
 
 ----
 
