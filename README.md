@@ -5,8 +5,9 @@ Welcome to my Github page, a home for all of my projects! You can see everything
 
 -----
 #### 🌟 Latest project  
-My latest project is: [N Queen Solver](https://github.com/NikolaTotev/N_Queen_Solver) 
-You can find the GUI version [here](http://nikolatotev-001-site1.ctempurl.com/nqueensolver)!
+My latest project is: [Traveling Salesman Solver](https://github.com/NikolaTotev/Traveling_Salesman_Problem) 
+You can download the CLI version from [here](https://github.com/NikolaTotev/Traveling_Salesman_Problem/releases/tag/Release)!
+<!--You can find the GUI version [here](http://nikolatotev-001-site1.ctempurl.com/nqueensolver)!-->
 
 ----
 
