@@ -5,8 +5,8 @@ Welcome to my Github page, a home for all of my projects! You can see everything
 
 -----
 #### 🌟 Latest project  
-My latest project is: [Traveling Salesman Solver](https://github.com/NikolaTotev/Traveling_Salesman_Problem) 
-You can download the CLI version from [here](https://github.com/NikolaTotev/Traveling_Salesman_Problem/releases/tag/Release)!
+My latest project is: [Tic-Tac-Toe](https://github.com/NikolaTotev/Tic_Tac_Toe) 
+<!--You can download the CLI version from [here](https://github.com/NikolaTotev/Traveling_Salesman_Problem/releases/tag/Release)!-->
 <!--You can find the GUI version [here](http://nikolatotev-001-site1.ctempurl.com/nqueensolver)!-->
 
 ----
