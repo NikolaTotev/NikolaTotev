@@ -19,6 +19,7 @@ My latest project is: [Tic-Tac-Toe](https://github.com/NikolaTotev/Tic_Tac_Toe)
 * Microcontrollers
 * Image Processing
 * Robotic Systems Development
+* C# / ASP.NET
 ---
   
  ### 📫 How to reach me: 
