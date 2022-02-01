@@ -5,10 +5,8 @@ Welcome to my Github page, a home for all of my projects! You can see everything
 
 -----
 #### 🌟 Latest project  
-My latest project is: [LoRaNet](https://github.com/NikolaTotev/LoRa_Sensor_Network) 
+My latest project is: [LoRaNet](https://github.com/NikolaTotev/LoRa_Sensor_Network) </br>
  
--
-
 <img src="https://github.com/NikolaTotev/LoRa_Sensor_Network/blob/main/Documentation/Graphics/GooglePlay_Feature_Graphic.png" width="512" height="250" alt="LoRaNet Feature Graphic"/>
 
 <!--You can download the CLI version from [here](https://github.com/NikolaTotev/Traveling_Salesman_Problem/releases/tag/Release)!-->
