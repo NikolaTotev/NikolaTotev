@@ -7,7 +7,7 @@ Welcome to my Github page, a home for all of my projects! You can see everything
 #### 🌟 Latest project  
 My latest project is: [LoRaNet](https://github.com/NikolaTotev/LoRa_Sensor_Network) 
  
------
+-
 
 <img src="https://github.com/NikolaTotev/LoRa_Sensor_Network/blob/main/Documentation/Graphics/GooglePlay_Feature_Graphic.png" width="512" height="250" alt="LoRaNet Feature Graphic"/>
 
