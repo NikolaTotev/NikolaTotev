@@ -16,6 +16,8 @@ My latest project is: [LoRaNet](https://github.com/NikolaTotev/LoRa_Sensor_Netwo
 
 ### 🌱 I’m currently learning 
 * Robotics (designing robots from the ground up)
+* CUDA
+* Deep Learning 
 * LoRa/LoRaWAN
 * IoT
 * C# / ASP.NET
