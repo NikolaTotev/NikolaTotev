@@ -15,18 +15,7 @@ My latest project is: [LoRaNet](https://github.com/NikolaTotev/LoRa_Sensor_Netwo
 ----
 
 ### 🌱 I’m currently learning 
-* Robotics (designing robots from the ground up)
-* CUDA
-* Deep Learning 
-* LoRa/LoRaWAN
-* IoT
-* C# / ASP.NET
-* 3D Printing
-* Altium
-* Fusion 360
-* Microcontrollers
-* Image Processing
-* Robotic Systems Development
+* @ Ocado Sofia Bootcamp 2022
 ---
   
  ### 📫 How to reach me: 
