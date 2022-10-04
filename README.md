@@ -16,6 +16,7 @@ My latest project is: [LoRaNet](https://github.com/NikolaTotev/LoRa_Sensor_Netwo
 
 ### 🌱 I’m currently learning 
 * @ Ocado Sofia Bootcamp 2022
+* @ Ocado Robotics Accelerator 2022
 ---
   
  ### 📫 How to reach me: 
