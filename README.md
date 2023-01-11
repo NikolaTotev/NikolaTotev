@@ -20,7 +20,7 @@ My latest project is: [LoRaNet](https://github.com/NikolaTotev/LoRa_Sensor_Netwo
   
  ### 📫 How to reach me: 
  * Email: nikola.r.totev@gmail.com
- * Social Media: Nikola Totev (look for the blue circle)  [LinkedIn/Instagram/Facebook]
+ * Social Media: Nikola Totev [LinkedIn/Instagram/Facebook]
 
 
 <!-- **NikolaTotev/NikolaTotev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
